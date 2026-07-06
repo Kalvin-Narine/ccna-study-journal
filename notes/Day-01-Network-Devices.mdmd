@@ -1,0 +1,40 @@
+CCNA # 1: Network Devices 
+Date Created: 7/6/2026
+
+“A computer network is a digital telecommunications network that allows devices to share resources.”
+
+A client is a device that accesses a service made available by a server.
+
+A server is a device that provides functions or services for clients 
+
+The client requests, and the server provides 
+
+Keep in mind: The same device can be a client in some situations,  and a server in other situations
+
+
+Switches (Level 2) 
+Switches are used to forward traffic within a LAN (Local Area Network) 
+
+Switches have:
+Have many network interfaces/ports for end hosts to connect to (usually 24+) 
+Provide connectivity to hosts within the same LNA (local area network) 
+Do not provide connectivity between LANs/over the internet 
+
+Routers (Level 3) 
+
+Routers have 
+Have fewer network interfaces than switches 
+Are used to provide connectivity between LANs
+They are used to send data over the internet.  
+
+Firewall (Level 3,4 and 7)
+Firewalls:
+Monitor and control network traffic based on configured rules
+Can be placed ‘inside’ the network, or ‘outside the network’
+Are known as ‘Next-Generation Firewalls’ when they include more modern and advanced filtering capabilities.
+Networking-based firewalls 
+Hardware that filters traffic between networks, 
+Host-based firewalls
+These are software applications that filter traffic entering and exiting a host machine, like a PC.
+
+
